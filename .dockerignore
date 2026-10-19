@@ -1,0 +1,14 @@
+.git
+**/node_modules
+**/dist
+.env*
+**/.env*
+test-project
+.pnpm-store
+.inkos
+books
+works
+worlds
+output
+coverage
+tmp
